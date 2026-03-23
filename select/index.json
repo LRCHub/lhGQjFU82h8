@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "21 Guns",
+  "base_artist": "Green Day",
+  "createdAt": "2026-03-23T17:50:48.762169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "21 Summer",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/01_21_Summer_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "21 Guns",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_21_Guns_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "21 Ounces",
+      "artist": "Goldie Lookin Chain",
+      "has_synced": false,
+      "path": "select/03_21_Ounces_Goldie_Lookin_Chain.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "21",
+      "artist": "Young Man",
+      "has_synced": true,
+      "path": "select/04_21_Young_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jimmy Cooks (feat. 21 Savage)",
+      "artist": "Drake feat. 21 Savage",
+      "has_synced": true,
+      "path": "select/05_Jimmy_Cooks_(feat._21_Savage)_Drake_feat._21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oddlife (Live in Melbourne '21)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Oddlife_(Live_in_Melbourne_'21)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "21:04 / Schwarzer Lack",
+      "artist": "Prinz Pi",
+      "has_synced": false,
+      "path": "select/07_21_04___Schwarzer_Lack_Prinz_Pi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "21:04 \u0000 Schwarzer Lack",
+      "artist": "Prinz Pi",
+      "has_synced": false,
+      "path": "select/08_21_04_\u0000_Schwarzer_Lack_Prinz_Pi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "21:04 / Schwarzer Lack (Instrumental)",
+      "artist": "Prinz Pi",
+      "has_synced": false,
+      "path": "select/09_21_04___Schwarzer_Lack_(Instrumental)_Prinz_Pi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "21:04 \u0000 Schwarzer Lack (Instrumental)",
+      "artist": "Prinz Pi",
+      "has_synced": false,
+      "path": "select/10_21_04_\u0000_Schwarzer_Lack_(Instrumental)_Prinz_Pi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sneakin' (feat. 21 Savage)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/11_Sneakin'_(feat._21_Savage)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "21 M◊◊N WATER",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/12_21_M◊◊N_WATER_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Child's Play (feat. 21 Savage)",
+      "artist": "Young Nudy feat. 21 Savage",
+      "has_synced": true,
+      "path": "select/13_Child's_Play_(feat._21_Savage)_Young_Nudy_feat._21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Child's Play (feat. 21 Savage)",
+      "artist": "Young Nudy",
+      "has_synced": true,
+      "path": "select/14_Child's_Play_(feat._21_Savage)_Young_Nudy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Scared (feat. 21 Savage & Doe Boy)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/15_I'm_Scared_(feat._21_Savage_&_Doe_Boy)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mister (feat. 21 Savage)",
+      "artist": "Young Nudy feat. Pi’erre Bourne & 21 Savage",
+      "has_synced": true,
+      "path": "select/16_Mister_(feat._21_Savage)_Young_Nudy_feat._Pi’erre_Bourne_&_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mister (feat. 21 Savage)",
+      "artist": "Young Nudy & Pi'erre Bourne",
+      "has_synced": true,
+      "path": "select/17_Mister_(feat._21_Savage)_Young_Nudy_&_Pi'erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "10 Freaky Girls (feat. 21 Savage)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/18_10_Freaky_Girls_(feat._21_Savage)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Don't Come Out The House (feat. 21 Savage)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/19_Don't_Come_Out_The_House_(feat._21_Savage)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "21 Guns",
+      "artist": "Green Day",
+      "has_synced": false,
+      "path": "select/pl_01_21_Guns_Green_Day.txt"
+    }
+  ]
+}
